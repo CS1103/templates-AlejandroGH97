@@ -12,11 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="489437e1-8b09-4554-a559-6007038e11fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/templates_AlejandroGH97.dir/main.cpp.o" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/templates_AlejandroGH97.dir/quicksortTest.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quicksort.h" beforeDir="false" afterPath="$PROJECT_DIR$/quicksort.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quicksortTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/quicksortTest.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,27 +49,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quicksort.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state relative-caret-position="221">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#140#152#0" expanded="true" />
-                <element signature="e#281#340#0" expanded="true" />
-                <element signature="e#290#313#0" expanded="true" />
-                <element signature="e#258#319#0" expanded="true" />
-                <element signature="e#267#291#0" expanded="true" />
-                <element signature="e#659#720#0" expanded="true" />
-                <element signature="e#668#692#0" expanded="true" />
-                <element signature="e#915#927#0" expanded="true" />
-                <element signature="e#1253#1265#0" expanded="true" />
+                <element signature="e#492#553#0" expanded="true" />
+                <element signature="e#501#525#0" expanded="true" />
+                <element signature="e#880#941#0" expanded="true" />
+                <element signature="e#889#913#0" expanded="true" />
+                <element signature="e#1134#1146#0" expanded="true" />
+                <element signature="e#1472#1484#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quicksortTest.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
@@ -94,8 +89,8 @@
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/quicksort.h" />
         <option value="$PROJECT_DIR$/quicksortTest.cpp" />
+        <option value="$PROJECT_DIR$/quicksort.h" />
       </list>
     </option>
   </component>
@@ -161,12 +156,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558110120553</updated>
       <workItem from="1558110121699" duration="24000" />
-      <workItem from="1558110146449" duration="9957000" />
+      <workItem from="1558110146449" duration="10633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9981000" />
+    <option name="totallyTimeSpent" value="10657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -218,30 +213,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quicksort.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-          <folding>
-            <element signature="e#140#152#0" expanded="true" />
-            <element signature="e#281#340#0" expanded="true" />
-            <element signature="e#290#313#0" expanded="true" />
-            <element signature="e#258#319#0" expanded="true" />
-            <element signature="e#267#291#0" expanded="true" />
-            <element signature="e#659#720#0" expanded="true" />
-            <element signature="e#668#692#0" expanded="true" />
-            <element signature="e#915#927#0" expanded="true" />
-            <element signature="e#1253#1265#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/quicksortTest.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quicksort.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#140#152#0" expanded="true" />
+            <element signature="e#492#553#0" expanded="true" />
+            <element signature="e#501#525#0" expanded="true" />
+            <element signature="e#880#941#0" expanded="true" />
+            <element signature="e#889#913#0" expanded="true" />
+            <element signature="e#1134#1146#0" expanded="true" />
+            <element signature="e#1472#1484#0" expanded="true" />
           </folding>
         </state>
       </provider>
