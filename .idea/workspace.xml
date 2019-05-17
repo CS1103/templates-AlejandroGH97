@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489437e1-8b09-4554-a559-6007038e11fc" name="Default Changelist" comment="" />
+    <list default="true" id="489437e1-8b09-4554-a559-6007038e11fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/quicksort.h" beforeDir="false" afterPath="$PROJECT_DIR$/quicksort.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quicksortTest.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/quicksortTest.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="153">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -49,10 +52,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quicksort.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding>
                 <element signature="e#140#152#0" expanded="true" />
+                <element signature="e#258#319#0" expanded="true" />
+                <element signature="e#267#291#0" expanded="true" />
+                <element signature="e#258#319#0" expanded="true" />
+                <element signature="e#267#291#0" expanded="true" />
                 <element signature="e#265#277#0" expanded="true" />
                 <element signature="e#603#615#0" expanded="true" />
               </folding>
@@ -63,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quicksortTest.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="427">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="e#42#61#0" expanded="true" />
               </folding>
@@ -81,8 +88,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
-        <option value="$PROJECT_DIR$/quicksort.h" />
         <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/quicksort.h" />
         <option value="$PROJECT_DIR$/quicksortTest.cpp" />
       </list>
     </option>
@@ -113,6 +120,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -147,12 +155,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558110120553</updated>
       <workItem from="1558110121699" duration="24000" />
-      <workItem from="1558110146449" duration="4534000" />
+      <workItem from="1558110146449" duration="5279000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4558000" />
+    <option name="totallyTimeSpent" value="5303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -196,8 +204,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
@@ -206,8 +214,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quicksortTest.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="427">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="e#42#61#0" expanded="true" />
           </folding>
@@ -216,10 +224,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quicksort.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding>
             <element signature="e#140#152#0" expanded="true" />
+            <element signature="e#258#319#0" expanded="true" />
+            <element signature="e#267#291#0" expanded="true" />
+            <element signature="e#258#319#0" expanded="true" />
+            <element signature="e#267#291#0" expanded="true" />
             <element signature="e#265#277#0" expanded="true" />
             <element signature="e#603#615#0" expanded="true" />
           </folding>
