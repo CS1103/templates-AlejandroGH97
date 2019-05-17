@@ -1,9 +1,13 @@
 //
 // Created by alejandro on 5/17/19.
 //
-
+#include <iostream>
 #ifndef TEMPLATES_ALEJANDROGH97_QUICKSORT_H
 #define TEMPLATES_ALEJANDROGH97_QUICKSORT_H
+
+
+
+
 template <typename O>
 void swap(O &first, O &second){
 
@@ -13,9 +17,18 @@ void swap(O &first, O &second){
 
 }
 
+template <template<typename, typename...>class Container, typename O>
+void swap(Container<O> &arr, int first, int second){
+
+    O temp = arr[first];
+    arr[first] = arr[second];
+    arr[second] = temp;
+
+}
+
 
 template<template<typename , typename...>class Container, typename O>
-int partition(Container<O> arr, int lo, int hi){
+int partition(Container<O> &arr, int lo, int hi){
 
     O pivot = arr[hi];
     int smaller = lo-1;
@@ -23,10 +36,10 @@ int partition(Container<O> arr, int lo, int hi){
     for(int index = lo; index <= hi-1; index++){
         if(arr[index]<= pivot){
             smaller++;
-            swap(arr[smaller],arr[index]);
+            swap(arr,smaller,index);
         }
     }
-    swap(arr[smaller+1],arr[hi]);
+    swap(arr,(smaller+1),hi);
 
     return (smaller+1);
 
@@ -36,13 +49,14 @@ int partition(Container<O> arr, int lo, int hi){
 
 
 template<template<typename , typename...>class Container, typename O>
-void quicksort(Container<O> arr,int lo, int hi){
-
+void quicksort(Container<O> &arr,int lo, int hi){
     if(lo<hi){
+
         int pi = partition(arr, 0,hi);
 
         quicksort(arr,lo,pi-1);
         quicksort(arr,pi+1,hi);
+
     }
 }
 

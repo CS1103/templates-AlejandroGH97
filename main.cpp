@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include "quicksort.h"
+#include <algorithm>
 
 #define CATCH_CONFIG_MAIN
 #include "catch2.h"

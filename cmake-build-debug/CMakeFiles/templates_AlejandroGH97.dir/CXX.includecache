@@ -456,7 +456,21 @@ algorithm
 cassert
 -
 
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/templates-AlejandroGH97/main.cpp
+iostream
+-
+vector
+-
+quicksort.h
 /home/alejandro/Documents/UTEC/Ciclo 3/POO II/templates-AlejandroGH97/quicksort.h
+algorithm
+-
+catch2.h
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/templates-AlejandroGH97/catch2.h
+
+/home/alejandro/Documents/UTEC/Ciclo 3/POO II/templates-AlejandroGH97/quicksort.h
+iostream
+-
 
 /home/alejandro/Documents/UTEC/Ciclo 3/POO II/templates-AlejandroGH97/quicksortTest.cpp
 catch2.h
